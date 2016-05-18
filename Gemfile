@@ -49,7 +49,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'spree', '~> 3.0.7'
 gem 'spree_gateway', '~> 3.0.0'
 gem 'spree_auth_devise', '~> 3.0.0'
-gem 'spree_editor', github: 'spree-contrib/spree_editor', branch: '3-0-stable'
+#gem 'spree_editor', github: 'spree-contrib/spree_editor', branch: '3-0-stable'
 gem 'spree_reviews', github: 'spree-contrib/spree_reviews', branch: '3-0-stable'
 gem 'spree_wishlist', github: 'spree-contrib/spree_wishlist', branch: '3-0-stable'
 gem 'spree_email_to_friend', github: 'spree-contrib/spree_email_to_friend', branch: '3-0-stable'
